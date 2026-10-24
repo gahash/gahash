@@ -39,6 +39,7 @@ Python · FastAPI · PyTorch · Node.js · TypeScript · React · Next.js · PHP
 
 | Progetto | Descrizione & Funzionalità | Stack Tecnologico | Accesso Codice |
 | :--- | :--- | :--- | :---: |
+| **📱 WhatsApp Automation Platform** | Piattaforma SaaS di marketing e automazione WhatsApp: flow builder visuale per chatbot, broadcast massivi, shared team inbox e pagamenti Stripe. | Node.js · Express · Socket.io · MySQL · Stripe · WhatsApp Cloud API | 🔒 *Su richiesta* |
 | **💳 CRM & Fatturazione** | CRM per gestione clienti, ordini, pagamenti Stripe, sincronizzazione bidirezionale con *Fatture in Cloud*, monitor amministrativo e cron job. | PHP · MySQL · Stripe · API Fatture in Cloud | 🔒 *Su richiesta* |
 | **🏋️ Gestionale Palestra** | Sistema per palestre e centri fitness: gestione anagrafiche, piani abbonamento ricorrenti, prenotazione sessioni, pagamenti e landing lead. | PHP · MySQL · Docker | 🔒 *Su richiesta* |
 | **📊 Gestione Finanziamenti** | Piattaforma per gestione piani di ammortamento e rateali: monitoraggio incassi, uscite, dashboard analitica ed esportazione report contabili. | PHP · MySQL | 🔒 *Su richiesta* |
